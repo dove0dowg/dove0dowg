@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dove0dowg
 - 👀 I’m interested in Data Science, ML, DL, AI and Maths.
-- 🌱 I’m currently learning Python and PostgreSQL. 
+- 🧷 I know some Python, C#, SQL and VBA. 
+- 🌱 I’m currently learning Maths and PostgreSQL. 
 - 💞️ I’m looking to collaborate on my forecrypt project. Ready to hear any suggestions!
 - 📫 Telegram: @deaddow88
   
